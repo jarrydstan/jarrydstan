@@ -1,5 +1,5 @@
 ## Hi my name is Jarryd!
-### I am an aspiring software developer who is interested mainly in backend development and currently working in IT
+### I am an IT Engineer who is interested mainly in System Engineering and automation.
 
 I am currently learning Python and JavaScript, and I have experience in C and Python with the Harvard CS50 course and Java with a partially complete Diploma of Information Technology.
 
