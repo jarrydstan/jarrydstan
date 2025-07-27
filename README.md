@@ -1,11 +1,42 @@
-## Hi my name is Jarryd!
-### I am an IT Engineer who is interested mainly in System Engineering and automation.
+## 👋 Hey, I'm Jarryd
 
-I am currently learning Python and JavaScript, and I have experience in C and Python with the Harvard CS50 course and Java with a partially complete Diploma of Information Technology.
+I'm a **Systems and Infrastructure Engineer** with a passion for automation, scripting, and building reliable infrastructure. I have hands-on experience in PowerShell scripting, infrastructure deployment, and process automation-skills developed through my professional career.
 
-Something that also interests me is DevOps and Cloud Development, as I have some experience using cloud infrastructure in AWS
-and I also have experience professionally in Linux(both cmd and GUI), Windows and MacOS.
+Currently, I'm enhancing my skills through an online course at **[boot.dev](https://boot.dev)**, focusing on backend development and DevOps fundamentals.
 
-I'm looking to collaborate on any project that will test my skills and engage me to learn new things.
-You can reach me either by email at [jarrydstanbrook@hotmail.com](mailto:jarrydstanbrook@hotmail.com) 
-or via [Linkedin](https://www.linkedin.com/in/jarrydstanbrook/)
+---
+
+## ⚙️ Areas of Interest & Expertise
+
+* **Infrastructure Automation**
+* **System Administration** (Linux, macOS, Windows)
+* **PowerShell Scripting**
+* **Cloud Infrastructure (AWS)**
+* **DevOps Workflows & CI/CD**
+
+---
+
+## 🧑‍💻 What I’m Learning
+
+* **Python**
+* **DevOps Tooling**
+* Building effective **CI/CD pipelines**
+* Planning to explore **Kubernetes** in the near future
+
+---
+
+## 💻 Platforms I’m Most Comfortable With
+
+* 🐧 **Linux** - my preferred environment
+* 🍎 **macOS** - daily driver for development and scripting
+* 🪟 **Windows** - professionally experienced and capable
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always keen to collaborate on automation or infrastructure-related projects, especially those that challenge me to grow in cloud and DevOps practices.
+
+**📬 Contact Me:**
+Email: [jarrydstanbrook@hotmail.com](mailto:jarrydstanbrook@hotmail.com)
+LinkedIn: [Jarryd Stanbrook](https://www.linkedin.com/in/jarrydstanbrook/)
