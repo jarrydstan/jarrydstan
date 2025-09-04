@@ -38,5 +38,5 @@ Currently, I'm enhancing my skills through an online course at **[boot.dev(my pr
 I’m always keen to collaborate on automation or infrastructure-related projects, especially those that challenge me to grow in cloud and DevOps practices.
 
 **📬 Contact Me:**
-Email: [jarrydstanbrook@hotmail.com](mailto:jarrydstanbrook@hotmail.com)
+Email: [contact@jarryd.cc](mailto:contact@jarryd.cc)
 LinkedIn: [Jarryd Stanbrook](https://www.linkedin.com/in/jarrydstanbrook/)
