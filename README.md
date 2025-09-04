@@ -2,7 +2,7 @@
 
 I'm a **Systems and Infrastructure Engineer** with a passion for automation, scripting, and building reliable infrastructure. I have hands-on experience in PowerShell scripting, infrastructure deployment, and process automation-skills developed through my professional career.
 
-Currently, I'm enhancing my skills through an online course at **[boot.dev](https://boot.dev)**, focusing on backend development and DevOps fundamentals.
+Currently, I'm enhancing my skills through an online course at **[boot.dev(my profile)](https://www.boot.dev/u/jryd)**, focusing on backend development and DevOps fundamentals.
 
 ---
 
